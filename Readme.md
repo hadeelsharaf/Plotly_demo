@@ -6,7 +6,7 @@ This Jupyter notebook demonstrates the use of Plotly, a Python graphing library,
 
 ## Requirements
 
-This notebook requires Plotly and pandas to be installed in your Python environment. The 
+This notebook requires Plotly and pandas to be installed in your Python environment. 
 
 ## Demo Session
 
